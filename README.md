@@ -1,13 +1,37 @@
-## IBD Navigation
+# IBD Navigation
 IBD's navigation needs improvement. Here's how I would structure it.
 
-## Stock Lists & Research
+## IBD Stock Screener
+> [Interactive tool with key data points from stock lists in tabular format](https://ibdstockscreener.investors.com/)
 
-### Research Articles
-| List | News                                                                                                            | Title                      | Description                                             |
-| :--: | --------------------------------------------------------------------------------------------------------------- | -------------------------- | ------------------------------------------------------- |
-| -    | [News](https://www.investors.com/research/best-growth-stocks-buy-watch-ibd-stock-lists/)                        | Updates to IBD Stock Lists | Additions and removals to various IBD Stock lists
-| -    | [News](https://www.investors.com/category/stock-lists/stocks-near-a-buy-zone/)                                  | Stocks near a Buy Zone     | Stocks that are approaching a buy zone
+## Research Articles
+
+### Research articles (published daily/weekly)
+| List | News                                                                                       | Title                      | Description                                             |
+| :--: | ------------------------------------------------------------------------------------------ | -------------------------- | ------------------------------------------------------- |
+| -    | [News](https://www.investors.com/category/market-trend/the-big-picture/)                   | The Big Picture            | Daily must-read market summary, published early evening
+| -    | [News](https://www.investors.com/research/ibd-stock-of-the-day)                            | Stock of the Day           | Daily highlight of a single stock, published late afternoon
+| -    | [News](https://www.investors.com/category/stock-market-today/ )                            | Stock Market Today         | Daily market action, published multiple times each day
+| -    | [News](https://www.investors.com/category/research/investing-action-plan/)                 | Investing Action Plan      | Weekly preview of upcoming week, published Friday evening
+
+### Research articles related to IBD stock lists (published periodically)
+| List | News                                                                                       | Title                      | Description                                             |
+| :--: | ------------------------------------------------------------------------------------------ | -------------------------- | ------------------------------------------------------- |
+| -    | [News](https://www.investors.com/research/best-growth-stocks-buy-watch-ibd-stock-lists/)   | Updates to IBD Stock Lists | Additions and removals to various IBD Stock lists
+| -    | [News](https://www.investors.com/category/stock-lists/stocks-near-a-buy-zone/)             | Stocks near a Buy Zone     | Stocks that are approaching a buy zone
+| -    | [News](https://www.investors.com/category/research/ibd-stock-analysis/)                    | Stock Analysis             | Analysis of individual stocks
+| -    | [News](https://www.investors.com/tag/ibd-screen-of-the-day/)                               | Screen of the day          | Highlights current importance of specific screens & stocks
+
+### General reserach articles (published periodically)
+| List | News                                                                                       | Title                      | Description                                             |
+| :--: | ------------------------------------------------------------------------------------------ | -------------------------- | ------------------------------------------------------- |
+| -    | [News](https://www.investors.com/category/research/ibd-stock-analysis/)                    | Stock Analysis             | Analysis of individual stocks
+| -    | [News](https://www.investors.com/category/research/swing-trading/)                         | Swing Trading              | Review of individual stock's key chart points
+| -    | [News](https://www.investors.com/category/research/industry-snapshot/)                     | Industry Snapshot          | Deep dives on specific industries
+| -    | [News](https://www.investors.com/category/research/the-new-america/)                       | The New America            | Articles about new innovative products or industry trends
+
+
+## Stock lists
 
 ### Primary Stock Lists
 | List                                                                | News                                                                                                            | Title                      | Description                                             |
@@ -34,10 +58,7 @@ IBD's navigation needs improvement. Here's how I would structure it.
 | [List](https://research.investors.com/stock-lists/stocks-that-funds-are-buying/)  | -    | Stocks that funds are buying  | Stocks that funds are buying
 
 
-#### Weekly Stock Lists
-* [List](https://research.investors.com/stock-lists/your-weekly-review/): Your Weekly Review - Weekly list of stocks with EPS and RS ratings of 85 or more
-
-### IBD Stock Tables (Updated Daily)
+## IBD Stock Tables (Updated Daily)
 > [IBD Data Tables And Stock Lists - Compiled From The US Stock Market](https://www.investors.com/ibd-data-tables/)
 * Smart NYSE + Nasdaq Tables - Industry sector ranking (33), top stocks per sector
 * Time-Saver Table - Top-rated stocks that that went up in price yesterday
@@ -73,9 +94,3 @@ IBD's navigation needs improvement. Here's how I would structure it.
 	* [High-Low Ratio](https://research.investors.com/psychological-market-indicators/chart?type=highlowratio)
 	* [Bulls vs. Bears](https://research.investors.com/psychological-market-indicators/chart?type=bullsbears)
 	* [Margin Debt](https://research.investors.com/psychological-market-indicators/chart?type=margindebt)
-
-### IBD Data Lists (sort later)
-* [Find Watch-List Stocks With IBD Breakout Stocks Index | Investor’s Business Daily](https://www.investors.com/ibd-indexes/ibd-breakout-stocks-index/)
-
-### Links that don’t fit in here
-* [ETF Market Strategy](https://www.investors.com/market-trend/ibds-etf-market-strategy/ibds-etf-market-strategy/)
