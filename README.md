@@ -19,6 +19,7 @@ IBD's navigation needs improvement. Here's how I would structure it.
 | :--: | ------------------------------------------------------------------------------------------ | -------------------------- | ------------------------------------------------------- |
 | -    | [News](https://www.investors.com/research/best-growth-stocks-buy-watch-ibd-stock-lists/)   | Updates to IBD Stock Lists | Additions and removals to various IBD Stock lists
 | -    | [News](https://www.investors.com/category/stock-lists/stocks-near-a-buy-zone/)             | Stocks near a Buy Zone     | Stocks that are approaching a buy zone
+| -    | [News](https://www.investors.com/research/stock-screener-stocks-to-buy-watch/)             | Stocks to Watch            | Stocks with 99 Composite rating
 | -    | [News](https://www.investors.com/category/research/ibd-stock-analysis/)                    | Stock Analysis             | Analysis of individual stocks
 | -    | [News](https://www.investors.com/tag/ibd-screen-of-the-day/)                               | Screen of the day          | Highlights current importance of specific screens & stocks
 
